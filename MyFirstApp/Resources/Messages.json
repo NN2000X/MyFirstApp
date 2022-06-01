@@ -1,0 +1,42 @@
+[
+    {
+        "id": "0",
+        "text": "Hello!",
+        "contactId": "0",
+        "send": true,
+        "isFile": false,
+        "time": "2022-04-01T08:00:00+0000"
+    },
+    {
+        "id": "1",
+        "text": "Hi from Grammy!",
+        "contactId": "0",
+        "send": false,
+        "isFile": false,
+        "time": "2022-04-01T09:00:00+0000"
+    },
+    {
+        "id": "2",
+        "text": "yo, wassup",
+        "contactId": "1",
+        "send": true,
+        "isFile": false,
+        "time": "2022-04-02T08:00:00+0000"
+    },
+    {
+        "id": "3",
+        "text": "sup",
+        "contactId": "1",
+        "send": false,
+        "isFile": false,
+        "time": "2022-04-02T09:00:00+0000"
+    },
+    {
+        "id": "4",
+        "text": "This is a very long message to show what's it like in preview. Let's just have a bit chit-chat here. First of all, the opera Killing Eve is about to end the Season 4th, which is not very pleasant. But it's no big deal anyway, so just chill.",
+        "contactId": "1",
+        "send": false,
+        "isFile": false,
+        "time": "2022-04-02T10:00:00+0000"
+    }
+]
